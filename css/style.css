@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Roboto&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: font-family: 'Crimson Text', serif;
+	font-size: 18px;
+}
+
+h1, h2, h3 {
+	font-family: font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
